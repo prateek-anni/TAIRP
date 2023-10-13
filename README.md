@@ -1,2 +1,2 @@
 link for accessing this website through AWS cloud:-
-http://website-srisai.s3-website.ap-south-1.amazonaws.com
+https://task1-techaintern.s3.ap-south-1.amazonaws.com/index.html
