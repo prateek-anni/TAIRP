@@ -1,0 +1,8 @@
+import random
+
+def lambda_handler(event, context):
+   randomnumber = random.randint(1, 100)
+   return {
+      'statusCode': 200,
+      'body': str(randomnumber)
+   }
